@@ -103,7 +103,7 @@ lostfound/
 
 ## 👨‍💻 Author
 
-* B. Koteswara Rao – [LinkedIn]([https://www.linkedin.com/in/sai-charan-tarra](https://www.linkedin.com/in/koteswara-rao-baali-159b382b8/))
+* B. Koteswara Rao – [LinkedIn]([https://www.linkedin.com/in/koteswara-rao-baali-159b382b8/])
 
 ---
 
