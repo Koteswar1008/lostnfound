@@ -49,7 +49,7 @@ A full-stack web application that helps students and staff report, search, and m
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/CherryVK18/lostnfound.git
+   git clone https://github.com/Koteswar1008/lostnfound.git
    cd lostfound
    ```
 
